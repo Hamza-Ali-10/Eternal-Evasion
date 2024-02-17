@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The objective was to create a game using Unity Engine. “Eternal Evasion” is the name I gave to my game. It is endless path traversing game. In other words a never ending dodging game which one play to their heart’s content. But only those with tranquil minds will persevere as certain twists will make the game impossible for those who do not show unrequited attention and focus. The slightest agitation and it is curtains for the player. The main goal is to avoid obstacles, and try to go further and further with each try. The game gets progressively more difficult as we go further. The goal is to get as high a score as possible. The game is made more challenging through glitch effects, low coefficients of friction and much more. Note that the glitch effects are done on purpose, they are not an actual glitch in the game. It is just to disorient the player and make the game more challenging. Other surprise elements in our game occur as we progress further into the course. The gaps keep getting smaller as we move onwards and the screen flips or rotates after certain intervals to make it more challenging for the player.
+The objective was to create a game using Unity Engine. “Eternal Evasion” is the name of the designed game. It is endless path traversing game. In other words a never ending dodging game which one play to their heart’s content. But only those with tranquil minds will persevere as certain twists will make the game impossible for those who do not show unrequited attention and focus. The slightest agitation and it is curtains for the player. The main goal is to avoid obstacles, and try to go further and further with each try. The game gets progressively more difficult as we go further. The goal is to get as high a score as possible. The game is made more challenging through glitch effects, low coefficients of friction and much more. Note that the glitch effects are done on purpose, they are not an actual glitch in the game. It is just to disorient the player and make the game more challenging. Other surprise elements in our game occur as we progress further into the course. The gaps keep getting smaller as we move onwards and the screen flips or rotates after certain intervals to make it more challenging for the player.
 
 
 ## Methodology
@@ -30,6 +30,15 @@ Abstraction has been implemented by the use of different access specifiers for d
 
 #### 4. Classes and Objects
 Each file contains a class with its own data members and member functions. The thing we connect the scripts to inside Unity is their instance or object. The object we create are from derived classes but the base class MonoBehaviour has objects of its own. One such object is the scene manager. It controls the arrangement of scenes in the game, the order in which they occur and much more.
+
+
+## In-Game Screenshots
+![1](https://github.com/Hamza-Ali-10/Eternal-Evasion/assets/153816989/89e5791e-3a54-4acd-96e0-d10314ec0af0)
+![2](https://github.com/Hamza-Ali-10/Eternal-Evasion/assets/153816989/a14d8199-6699-457d-a2d8-64fb145cec63)
+![3](https://github.com/Hamza-Ali-10/Eternal-Evasion/assets/153816989/5c40deb3-daf5-4511-addc-ed34d6846714)
+![4](https://github.com/Hamza-Ali-10/Eternal-Evasion/assets/153816989/7141d497-2fea-4ff7-a799-c2358a84fa9f)
+![5](https://github.com/Hamza-Ali-10/Eternal-Evasion/assets/153816989/4e971a19-7291-4e1c-b09d-eb7efb5b3a0f)
+![6](https://github.com/Hamza-Ali-10/Eternal-Evasion/assets/153816989/7842d140-1e2a-4fb2-8b79-6bd69a8f52a7)
 
 
 ## Code
