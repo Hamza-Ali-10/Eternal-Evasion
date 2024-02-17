@@ -14,7 +14,7 @@ After first coming up with the concept of our game, I learned C# and the working
 
 The programming language used in this project was C#. The softwares used were Unity Engine for the game development and Visual Studio for writing our C# scripts. For supporting material such as brand logo and intro clip, Adobe Photoshop and Adobe Premiere were used. 
 
-### Concepts of OOP Used
+### Concepts of Object Oriented Programming (OOP) Used
 
 C# is a general purpose object oriented language. Many core concepts of object oriented programming are integrated in C# as well as Unity Engine itself. Many concepts of object oriented programming have been applied to our project. Some of the more prominent ones have been listed below.
 
